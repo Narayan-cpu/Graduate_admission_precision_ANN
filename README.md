@@ -109,4 +109,7 @@ Training and validation loss were plotted using Matplotlib to monitor model lear
 ```bash
 pip install numpy pandas scikit-learn tensorflow matplotlib
 
-Then run the notebook or Python script. ```
+```
+
+Then run the notebook or Python script.
+
