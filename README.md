@@ -4,6 +4,7 @@ Predicting the **Chance of Admit** for graduate programs using a Deep Learning m
 
 ---
 
+
 ## 📌 Project Overview
 
 This project uses an **Artificial Neural Network (ANN)** to predict the probability of admission based on academic and profile features like GRE, TOEFL, CGPA, SOP strength, etc.
@@ -112,4 +113,5 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 ```
 
 Then run the notebook or Python script.
+
 
